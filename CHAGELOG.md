@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Updated
+#### 7/10/2025
+1. Updated links and info in main component
+
 ### Added
 #### 6/26/2025 ####
 1. edited components as needed to get main-content to display, added content from resume to component
